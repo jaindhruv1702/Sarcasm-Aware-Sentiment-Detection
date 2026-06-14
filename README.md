@@ -1,4 +1,3 @@
-# Sarcasm-Aware-Sentiment-Detection
 # Sarcasm-Aware Sentiment Detection for Ethical Social Media Analysis
 
 ## Overview
